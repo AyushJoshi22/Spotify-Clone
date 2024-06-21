@@ -9,7 +9,7 @@
 ##### To get started with this project, follow these steps:
 
 ### 1. Clone the repository:
-     git clone https://github.com/AyushJoshi22/Spotify-Clone
+     git clone https://github.com/AyushJoshi22/Spotify-Clone.git
      cd spotify-clone
 
 ### 2. Install dependencies:
